@@ -10,6 +10,7 @@
 
 يتميز المشروع بالتالي :<br/>
  * إضافة موظفين جدد وتحديد الصلاحية المناسبه لهم  </br>
+ * يدعم الاتمتة حيث يتم ارسال رسالة للتجلرام عند تسجيل غياب او خصم  </br> 
  * إدارة المرتبات والخصم التلقائي عند إضافة غياب أو زيادة المرتب عند وجود بدلات للموظف </br>
  * إدارة المهمام حيث يتمكن الموظفين من رفع الملفات ومراقبة تقدم المهمه </br>
  * إدارة الإجازات - يتقدم الموظف بطلب إجازه ويصل للمدير إشعار بوجود طلب إجازة من احد الموظفين ويتم قبولها او الرفض </br>
@@ -51,15 +52,19 @@
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/11.PNG)  </br><br/>
 
 
-![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/5.PNG)  </br>
 واجهة رواتب الموظفين </br><br/>
-![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/3.PNG)  </br>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/5.PNG)  </br>
+
 واجهة ادارة طلبات الاجازات (قبول او رفض)</br><br/>
-![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/4.PNG)  </br>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/3.PNG)  </br>
+
 واجهة عرض ارصدة الاجازات للموظفين </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/4.PNG)  </br>
+
+واجهة عرض المهام المرسله والواردة والتعليقات الفرعية</br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/12.PNG)  </br>
-واجهة عرض المهام المرسله والواردة </br><br/>
-![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/1.PNG)  </br>
+
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/13.PNG)  </br>
 
  - - -
 ## الخطة القادمة من المشروع 
