@@ -1,0 +1,57 @@
+.screenshots-section {
+    padding: 4rem 2rem;
+    background-color: #f8fafc;
+    text-align: center;
+  }
+  
+  .screenshots-section h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    color: #1e293b;
+  }
+  
+  .screenshots-section .subtitle {
+    color: #64748b;
+    margin-bottom: 2rem;
+    font-size: 1rem;
+  }
+  
+  .screenshots-grid {
+    display: grid;
+    /* grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); */
+    gap: 2rem;
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+   @media (min-width: 300px) {
+    .screenshots-grid  {       
+       grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    }
+  }
+  
+  .screenshot-card {
+    background: #fff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease;
+ 
+     
+  }
+  
+  .screenshot-card:hover {
+    transform: scale(1.02);
+  }
+  
+  .screenshot-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .screenshot-card p {
+    margin: 0.75rem;
+    color: #334155;
+    font-weight: 500;
+  }
+  

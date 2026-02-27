@@ -1,0 +1,56 @@
+/* يمكن إضافته إلى ملف App.css أو ملف CSS مرتبط بالعنصر */
+
+.scrolling-bar-container {
+    /* position: fixed;
+    top: 0;
+    right: 0;*/
+  
+    background-color: #b6d0e6; /* bg-yellow-100 */
+    border-bottom: 1px solid #fde68a; /* border-yellow-300 */
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);   
+    overflow: hidden;
+    z-index: 0;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    direction: rtl;
+    opacity: 0.9 ;    
+    width: 88%; 
+    font-size: 19px;   
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    border-radius: 5px;
+
+    /* padding-left: 20rem; */
+  
+  }
+  
+  .scrolling-bar-content {
+    display: flex;
+    white-space: nowrap;
+    animation: scroll-left 15s linear infinite;
+  }
+  
+  .scrolling-bar-content span {
+    padding-left: 2rem;
+    /* padding-right: 2rem; */
+    padding-right: 2rem;
+  }
+
+  /* ايقاف شريط التمرير عند مرور المؤشر */
+  .scrolling-bar-content:hover {
+    animation-play-state: paused;
+  }
+  /* الحركة */
+  @keyframes scroll-left {
+    0% {
+      /* transform: translateX(0%); */
+      transform: translateX(0%);
+    }
+    100% {
+      /* transform: translateX(-50%); */
+      transform: translateX(50%);
+    }
+  }
+  

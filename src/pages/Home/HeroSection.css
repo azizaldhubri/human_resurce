@@ -1,0 +1,66 @@
+.home-container {
+    position: relative;
+    width: 100%;
+    height: 90vh; /* الوضع الافتراضي لأجهزة سطح المكتب */
+    overflow: hidden;
+    font-size: 2rem;
+    color: black;
+    padding: 10px;
+  }
+  
+  /* الفيديو يغطي الخلفية */
+  .bg-video {
+    position: absolute;
+    /* top: 0; */
+     top: 90px;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -1;
+    padding: 0px 3px;
+  }
+  
+  /* المحتوى فوق الفيديو */
+  .overlay-content {
+    position: relative;
+    z-index: 1;
+    color: rgb(207, 104, 104);
+    text-align: center;
+    padding: 2rem;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: bold;
+     top: 90px;
+  }
+  
+  /* 📱 على الشاشات الصغيرة: فقط 220px ارتفاع */
+  @media (max-width: 768px) {
+    .home-container {
+      height: 300px;
+     
+    }
+  
+    .bg-video {
+      height: 300px;
+      
+    }
+  
+    .overlay-content {
+      height: 300px;
+      padding: 1rem;
+      justify-content: center;
+       /* top: 90px; */
+    }
+  
+    .overlay-content h1 {
+      font-size: 1.5rem;
+    }
+  
+    .overlay-content p {
+      font-size: 1rem;
+    }
+  }
+  

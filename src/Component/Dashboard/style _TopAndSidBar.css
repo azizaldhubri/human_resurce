@@ -1,0 +1,117 @@
+
+.top{
+    width: 100%;
+    height: 64px;
+    /* border: 1px solid red; */
+    position: fixed;
+    top:0;
+    z-index: 10000;
+    background-color:#488AC7	;  
+    
+}
+.custom-hover {
+  background: rgb(231, 238, 238); /* لون عند التمرير */
+  cursor: pointer;     
+  /* transition: background 0.3s ease;  */
+}
+.custom-hover:hover {
+  background: #d8dbdb; /* لون عند التمرير */
+  cursor: pointer;     
+  transition: background 0.3s ease; 
+}
+
+.small-scrollbar::-webkit-scrollbar {
+  width: 6px; /* ⬅️ عرض الشريط */
+}
+
+.small-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #999;  /* ⬅️ لون المقبض */
+  border-radius: 10px;
+}
+
+.small-scrollbar::-webkit-scrollbar-track {
+  background-color: #f0f0f0; /* ⬅️ لون الخلفية */
+}
+.border-primary {
+    --bs-border-opacity: 1;
+    border-color: rgb(43 96 173 / 60%) !important;
+}
+
+.sidbar{ 
+    z-index: 2;
+    right: 0;
+    opacity: 3;
+    height: 100%;
+    /* top:60px ; */
+    margin-right: 0;
+    /* margin-top: -1px; */
+    /* margin-top: 55px; */
+    background:
+    linear-gradient(
+        /* #0a6f9e, */
+        #a2c2d1,
+    /* rgba(94, 169, 235, 0.8), */
+    rgba(230, 236, 238, 0.8)
+    );
+    border-bottom: 10px solid rgb(30, 69, 121);
+    box-shadow: 0px 5px 4px 5px rgb(31, 61, 104);
+      
+    
+  
+}
+.fade-div { 
+    opacity :1 ;
+    z-index: 7;
+    transform: translateX(0);
+    transition: transform 0.6s ease-in-out, opacity  0.6s ease-in-out;
+  }  
+  .fade-div.hidden {
+   
+    transform: translateX(100%);
+    position: absolute; 
+    opacity: 0;
+  }  
+  .fade-div.visible {  
+     
+    transform: translateX(0);
+  }
+.body-app{  
+    right: 0;
+    /* width: 100%; */
+    height: 100%;
+    display: flex;
+    z-index: 1;
+    flex: 1; 
+    border: 2px solid black;}
+
+    .fade-div2 { 
+        z-index: 7;
+        /* transform: translateX(0); */
+        transition: transform 0.6s ease-in-out, opacity  0.6s ease-in-out;
+      }  
+      .fade-div2.hidden {    
+        /* transform: translateX(10%); */
+        /* position: absolute;  */
+        flex: 1;
+      }  
+      .fade-div2.visible {  
+        transform: translateX(0);
+      }
+
+      .other-div {
+        /* background-color: #c1d3e2; */
+        /* color: white; */
+        /* padding: 20px; */
+        border-radius: 5px;
+        /* width: 40%; */
+        /* text-align: center; */
+        flex: 1;
+        /* transition: width  5.2s ease-in-out; */
+      }
+      .other-div.expanded {
+        /* width: 80%; */
+        flex: 1;
+      }
+ 
+
+ 

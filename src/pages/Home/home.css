@@ -1,0 +1,109 @@
+.modal_homepage1 { 
+  position: absolute;
+  width: 100%;
+  top:90px;  
+  height: 85vh;       
+   background-color: rgba(189, 176, 176, 0.5);  
+  display: flex;   
+ z-index: 9999;   
+   border-radius: 8px; 
+   align-items: center;
+   justify-content: center;
+
+}
+.modal_content_home  { 
+  max-width: 900px;
+  display: contents;  
+  text-align: center; 
+}
+
+.card{
+  position: relative;
+  z-index: 1;
+  color: rgb(207, 104, 104);
+  text-align: center;
+  /* padding: 2rem; */
+  height: 100%;
+  display: block;
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  font-weight: bold;
+
+}
+/*------------------------------------------ about section------------------------------------ */
+/*------------------------------------------ ------------------------------------ */
+.about-section {
+  padding: 4rem 2rem;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.about-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-section h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #222;
+}
+
+.about-section p {
+  font-size: 1.1rem;
+  color: #555;
+  line-height: 1.7;
+}
+
+
+        /* --------------------                               FeaturesSection ------------------ */
+
+  /* .circle-container {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    margin: 50px auto;
+  }
+  
+  .circular-text {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform-origin: center;
+    animation: spin 10s linear infinite;
+    text-align: center;
+    line-height: 200px;
+    font-weight: bold;
+  }
+  
+  @keyframes spin {
+    0%   { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  } */
+ 
+.link{
+    text-decoration: none;
+    color: rgb(24, 16, 16);
+    /* color: rgb(24, 16, 16); */
+    cursor: pointer;
+    
+}
+.link:hover{
+    color: brown;
+}
+a{
+    text-decoration: none;
+    color: rgb(125, 128, 125);    
+}
+a:hover{
+    text-decoration: none;
+    
+    color: rgb(146, 73, 60);  
+    
+    
+    /* font-size: large   */
+}
+
+/* CSS */
+
+

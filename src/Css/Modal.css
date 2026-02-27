@@ -1,0 +1,40 @@
+.home-notification { 
+  position: fixed;
+  /* top: 52px;  */
+   /* background-color: rgba(189, 176, 176, 0.5);   */
+  display: flex;
+  justify-content: center;  
+ width: 100vw;
+   border-radius: 8px; 
+}
+
+.modal-notification { 
+  position: absolute;
+  top: 52px; 
+   background-color: rgba(189, 176, 176, 0.5);  
+  display: flex;
+  justify-content: center;  
+ width: 300px;
+   border-radius: 8px; 
+}
+ 
+  
+.modal-content1  {
+  width: 100%;     
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  background-color: white;    
+  padding: 0px;
+  border-radius: 8px;  
+}
+  
+.close-btn {
+    background: none;
+    border: none;
+    font-size: 24px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+  }
+  
+  
