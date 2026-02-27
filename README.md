@@ -30,7 +30,7 @@
 ### نماذج من الواجهه الامامية للمشروع (Screenshots) 
 - - -
 الواجهه الرئيسية للمشروع</br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/1.PNG)  </br><br/>
+![واجهة التطبيق](https://github.com/azizaldhubri/human_resurce/tree/main/public/images/1.PNG)  </br><br/>
 الواجهه الرئيسية للمشروع </br><br/>
 ![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/home1.PNG)  </br><br/>
 واجهة صلاحيات المستخدمين </br><br/>
