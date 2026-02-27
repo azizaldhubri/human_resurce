@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/Role-CYSGqQGs.js","assets/index-CxioH5k5.js","assets/index-B_ncFZiZ.css","assets/RoleUpdate-JS-GfTcs.js"])))=>i.map(i=>d[i]);
+import{j as e,i as r,k as t,r as o,_ as s}from"./index-CxioH5k5.js";const a=o.lazy(()=>s(()=>import("./Role-CYSGqQGs.js"),__vite__mapDeps([0,1,2]))),_=o.lazy(()=>s(()=>import("./RoleUpdate-JS-GfTcs.js"),__vite__mapDeps([3,1,2])));function l(){return e.jsxs(r,{children:[e.jsx(t,{index:!0,element:e.jsx(a,{})}),e.jsx(t,{path:"RoleUpdate/:id",element:e.jsx(_,{})})]})}export{l as default};
