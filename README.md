@@ -31,7 +31,7 @@
 - - -
 الواجهه الرئيسية للمشروع</br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br><br/>
-الواجهه الرئيسية للمشروع </br><br/>
+  </br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/10.PNG)  </br><br/>
 واجهة صلاحيات المستخدمين </br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/7.PNG)  </br><br/>
