@@ -31,24 +31,25 @@
 - - -
 الواجهه الرئيسية للمشروع</br><br/>
 ![واجهة التطبيق]( https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br><br/>
-![واجهة التطبيق]( https://azizaldhubri.github.io/human_resurce/images/1.PNG)  </br><br/>
+![واجهة التطبيق]( https://azizaldhubri.github.io/human_resurce/images/10.PNG)  </br><br/>
   
 واجهة صلاحيات المستخدمين </br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/8.PNG)  </br><br/>
 واجهة المستحدمين </br><br/>
 ![واجهة التطبيق]( https://azizaldhubri.github.io/human_resurce/images/7.PNG)  </br>
 واجهة المستخدمين باستحدام Data grid -اكثر مرونه </br><br/>
-![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/user.png)  </br><br/>
 واجهة الاقسام </br><br/>
-![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/11.PNG)  </br>
 واجهة رواتب الموظفين </br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/5.PNG)  </br>
 واجهة ادارة طلبات الاجازات (قبول او رفض)</br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/3.PNG)  </br>
 واجهة عرض ارصدة الاجازات للموظفين </br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/4.PNG)  </br>
-واجهة عرض المهام المرسله والواردة </br><br/>
-![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br>
+واجهة عرض المهام المرسله والواردة مع التعليقات الفرعية</br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/12.PNG)  </br>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/13.PNG)  </br>
 
  - - -
 ## الخطة القادمة من المشروع 
