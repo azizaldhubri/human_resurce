@@ -33,24 +33,22 @@
 ![واجهة التطبيق]( https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br><br/>
 ![واجهة التطبيق]( https://azizaldhubri.github.io/human_resurce/images/1.PNG)  </br><br/>
   
-الواجهه الرئيسية للمشروع </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/home1.PNG)  </br><br/>
 واجهة صلاحيات المستخدمين </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/permissions.PNG)  </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/8.PNG)  </br><br/>
 واجهة المستحدمين </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/users1.1.PNG)  </br>
+![واجهة التطبيق]( https://azizaldhubri.github.io/human_resurce/images/7.PNG)  </br>
 واجهة المستخدمين باستحدام Data grid -اكثر مرونه </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/users1.2.PNG)  </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br><br/>
 واجهة الاقسام </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/department.PNG)  </br>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br>
 واجهة رواتب الموظفين </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/Salaries.PNG)  </br>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/5.PNG)  </br>
 واجهة ادارة طلبات الاجازات (قبول او رفض)</br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/Leave_requests.PNG)  </br>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/3.PNG)  </br>
 واجهة عرض ارصدة الاجازات للموظفين </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/leave_balances.PNG)  </br>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/4.PNG)  </br>
 واجهة عرض المهام المرسله والواردة </br><br/>
-![واجهة التطبيق](https://github.com/azizaldhubri/hrFrontEnd2/blob/main/public/screenshots/task.PNG)  </br>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br>
 
  - - -
 ## الخطة القادمة من المشروع 
