@@ -1,16 +1,59 @@
-# React + Vite
+# مشروع إدارة الموارد البشرية 
+ 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## التقنيات المستخدمه في المشروع
 
-Currently, two official plugins are available:
+استخدمت لبناء المشروع في الواجهه الامامية React.js , Material_-Ui , BooTstrap , Context,React Hooks
+أيضا مكتبات اخرى لأستخراج تقارير Pdf ,Excel ,
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+###  وصف المشروع
 
-## React Compiler
+يتميز المشروع بالتالي :<br/>
+ * إضافة موظفين جدد وتحديد الصلاحية المناسبه لهم   </br>
+ * إدارة المرتبات والخصم التلقائي عند إضافة غياب أو زيادة المرتب عند وجود بدلات للموظف </br>
+ * إدارة المهمام حيث يتمكن الموظفين من رفع الملفات ومراقبة تقدم المهمه </br>
+ * إدارة الإجازات - يتقدم الموظف بطلب إجازه ويصل للمدير إشعار بوجود طلب إجازة من احد الموظفين ويتم قبولها او الرفض </br>
+ * سهولة المراقبة حيث يصل لمدير النظام إشعار عند إضافة موظف جديد وسهولة البحث </br>
+ * سرعة استرجاع البيانات -لان البيانات المرجوعه حسب paginatetion ولس كل البينات  </br> 
+ * عرض التمثيل البياني للبيانات </br>
+ * استجابة لجميع احجام الشاشات </br>
+ * سهولة التنقل بين الصفحات </br>
+ * بناء مكونات قابله للأستخدام في مشاريع اخرى </br>
+   
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ 
+ ### الواجهة الخلفيه للمشروع 
+استخدمت Laravel لبناء backend  ولكن تعذر رفعها للأستضافه نظرا لعدم تجديد رسوم الأستضافة 
+ 
+ 
 
-## Expanding the ESLint configuration
+### نماذج من الواجهه الامامية للمشروع (Screenshots) 
+- - -
+الواجهه الرئيسية للمشروع</br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br><br/>
+الواجهه الرئيسية للمشروع </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/10.PNG)  </br><br/>
+واجهة صلاحيات المستخدمين </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/3.PNG)  </br><br/>
+واجهة المستحدمين </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/users.png)  </br>
+واجهة المستخدمين باستحدام Data grid -اكثر مرونه </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/1.PNG)  </br><br/>
+واجهة الاقسام </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/1.PNG)  </br>
+واجهة رواتب الموظفين </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/1.PNG)  </br>
+واجهة ادارة طلبات الاجازات (قبول او رفض)</br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/1.PNG)  </br>
+واجهة عرض ارصدة الاجازات للموظفين </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/1.PNG)  </br>
+واجهة عرض المهام المرسله والواردة </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/1.PNG)  </br>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ - - -
+## الخطة القادمة من المشروع 
+ترجمة المشروع الى اللغة الانجليزية واضافة button تبديل اللغة </br>
+إضافة اللمسات الاخيرة للمشروع مثل تمكين المستخدم لتغيير لون واجهة العرض </br>
+
+
+ 
