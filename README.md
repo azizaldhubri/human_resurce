@@ -33,13 +33,24 @@
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/2.PNG)  </br><br/>
   </br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/10.PNG)  </br><br/>
-واجهة صلاحيات المستخدمين </br><br/>
-![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/7.PNG)  </br><br/>
+
+
 واجهة المستحدمين </br><br/>
-![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/user.png)  </br>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/7.PNG)  </br><br/>
+
+
 واجهة المستخدمين باستحدام Data grid -اكثر مرونه </br><br/>
-![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/11.PNG)  </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/user.png)  </br>
+
+واجهة صلاحيات المستخدمين </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/8.PNG)  </br><br/>
+
+
+
 واجهة الاقسام </br><br/>
+![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/11.PNG)  </br><br/>
+
+
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/5.PNG)  </br>
 واجهة رواتب الموظفين </br><br/>
 ![واجهة التطبيق](https://azizaldhubri.github.io/human_resurce/images/3.PNG)  </br>
